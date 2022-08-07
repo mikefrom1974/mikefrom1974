@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @mikefrom1974
+- 👀 I’m interested in coding, game design, 3d graphics, VR, cars
+- 🌱 I’m currently learning VR, modeling, unreal, blender, etc
+- 💞️ I’m looking to collaborate on any of the above
+- 📫 How to reach me: start here, go from there.
